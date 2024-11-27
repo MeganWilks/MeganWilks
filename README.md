@@ -4,6 +4,7 @@
 - 📫 You can reach me with this email meganwilks18@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love bouldering Also I'm currently learning C# and Unity
+- Visit my Itch.io Page for more fun projects! - https://megwilks.itch.io/
 
 <!---
 MeganWilks/MeganWilks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
