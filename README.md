@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Megan Wilks and I am 18
 - 👀 I’m interested in videogames, game design and of course programming!
-- 🌱 I’m currently completing a UAL Level 3 Extended Diploma in Creative Media and Production (Games Development)
+- 🌱 I’m currently Studying a BA Hons for Games Development and Design
 - 📫 You can reach me with this email meganwilks18@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love bouldering Also I'm currently learning C# and Unity
