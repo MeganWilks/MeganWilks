@@ -3,7 +3,8 @@
 - 🌱 I’m currently Studying a BA Hons for Games Development and Design
 - 📫 You can reach me with this email meganwilks18@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love bouldering Also I'm currently learning C# and Unity
+- ⚡ Fun fact: I love bouldering and crotcheting
+- Currently I am Learning the Programming language C# as well as Visual Scripting using the game engines Unreal and Unity
 - Visit my Itch.io Page for more fun projects! - https://megwilks.itch.io/
 
 <!---
